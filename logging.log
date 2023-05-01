@@ -1,0 +1,24 @@
+
+386  [main] INFO  c.example.webapp.CoffeeOrderBoard -- order added1 | Bob
+
+388  [main] INFO  c.example.webapp.CoffeeOrderBoard -- order added3 | TOM
+
+388  [main] INFO  c.example.webapp.CoffeeOrderBoard -- order added4 | Mark
+
+388  [main] INFO  c.example.webapp.CoffeeOrderBoard -- order added6 | Evgeniy
+
+388  [main] INFO  c.example.webapp.CoffeeOrderBoard -- order added5 | Anatoliy
+
+388  [main] INFO  c.example.webapp.CoffeeOrderBoard -- order added2 | Egor
+
+389  [main] INFO  c.example.webapp.CoffeeOrderBoard -- order removed 6 Evgeniy
+389  [main] INFO  c.example.webapp.CoffeeOrderBoard -- loggerID | Client
+
+2 | Egor
+
+3 | TOM
+
+4 | Mark
+
+5 | Anatoliy
+
